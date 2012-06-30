@@ -10,6 +10,9 @@ public class Runner {
 	void masterMethod() {
 		
 	}
+	void anotherMethod() {
+	
+	}
 	void calculateSize() {
 		
 	}
