@@ -19,4 +19,7 @@ public class Runner {
 	void hotfix() {
 		
 	}
+	void master_rebase() {
+		
+	}
 }
