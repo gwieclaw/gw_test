@@ -16,4 +16,7 @@ public class Runner {
 	void hotfix() {
 		
 	}
+	void someRebase() {
+		
+	}
 }
