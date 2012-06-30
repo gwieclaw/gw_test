@@ -13,4 +13,7 @@ public class Runner {
 	void calculateSize() {
 		
 	}
+	void hotfix() {
+		
+	}
 }
