@@ -7,4 +7,7 @@ public class Runner {
 	void branchMethod() {
 		
 	}
+	void masterMethod() {
+		
+	}
 }
