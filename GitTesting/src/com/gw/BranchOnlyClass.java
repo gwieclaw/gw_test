@@ -4,4 +4,7 @@ public class BranchOnlyClass {
 	void someBranchMethod() {
 		
 	}
+	void nextMethod() {
+		
+	}
 }
