@@ -22,4 +22,7 @@ public class Runner {
 	void master_rebase() {
 		
 	}
+	void task3() {
+		
+	}
 }
