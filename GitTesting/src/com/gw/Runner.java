@@ -11,6 +11,9 @@ public class Runner {
 		
 	}
 	void anotherMethod() {
+	
+	}
+	void calculateSize() {
 		
 	}
 }
